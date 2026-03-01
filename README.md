@@ -168,7 +168,9 @@ PRODUCT_HUB/
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| ![Dark](https://via.placeholder.com/400x250/0f0c29/FF0080?text=Dark+Mode) | ![Light](https://via.placeholder.com/400x250/faf5ff/7928CA?text=Light+Mode) |
+| <img width="1910" height="1070" alt="Screenshot 2026-03-01 125926" src="https://github.com/user-attachments/assets/b733b018-951c-49cd-8463-e001bcfd221a" /> | <img width="1919" height="1067" alt="image" src="https://github.com/user-attachments/assets/0bcafbc4-f72c-4db0-88fe-1b2c148a2fe8" /> |
+
+
 
 ---
 
@@ -211,8 +213,8 @@ This project is licensed under the **MIT License**.
 
 <div align="center">
 
-**✦ Built with 💜 by your-username ✦**
+**✦ Built with 💜 by Chamidu Gihan ✦**
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=flat-square&logo=github)](https://github.com/your-username)
+[![GitHub](https://img.shields.io/badge/GitHub-chamidugihan-181717?style=flat-square&logo=github)](https://github.com/chamidugihan)
 
 </div>
