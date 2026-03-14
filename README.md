@@ -24,6 +24,20 @@
 
 ---
 
+## 🌐 Live Demo
+
+<div align="center">
+
+[![Live Demo](https://img.shields.io/badge/PRODUCT%20HUB-Live%20Demo-blueviolet?style=for-the-badge&logo=render&logoColor=white)](https://product-hub-apb9.onrender.com/)
+
+### 🔗 [https://product-hub-apb9.onrender.com](https://product-hub-apb9.onrender.com/)
+
+> ⚠️ The app is hosted on Render's free tier — it may take **30–60 seconds** to wake up on first load.
+
+</div>
+
+---
+
 ## ✨ Features
 
 - 🛍️ **Create** — Add new products with name, price & image
@@ -62,7 +76,7 @@
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/your-username/PRODUCT_HUB.git
+git clone https://github.com/chamidugihan/PRODUCT_HUB.git
 cd PRODUCT_HUB
 ```
 
@@ -168,9 +182,7 @@ PRODUCT_HUB/
 
 | Dark Mode | Light Mode |
 |-----------|------------|
-| <img width="1910" height="1070" alt="Screenshot 2026-03-01 125926" src="https://github.com/user-attachments/assets/b733b018-951c-49cd-8463-e001bcfd221a" /> | <img width="1919" height="1067" alt="image" src="https://github.com/user-attachments/assets/0bcafbc4-f72c-4db0-88fe-1b2c148a2fe8" /> |
-
-
+| <img width="1910" height="1070" alt="Dark Mode" src="https://github.com/user-attachments/assets/b733b018-951c-49cd-8463-e001bcfd221a" /> | <img width="1919" height="1067" alt="Light Mode" src="https://github.com/user-attachments/assets/0bcafbc4-f72c-4db0-88fe-1b2c148a2fe8" /> |
 
 ---
 
@@ -216,5 +228,6 @@ This project is licensed under the **MIT License**.
 **✦ Built with 💜 by Chamidu Gihan ✦**
 
 [![GitHub](https://img.shields.io/badge/GitHub-chamidugihan-181717?style=flat-square&logo=github)](https://github.com/chamidugihan)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Product%20Hub-blueviolet?style=flat-square&logo=render)](https://product-hub-apb9.onrender.com/)
 
 </div>
